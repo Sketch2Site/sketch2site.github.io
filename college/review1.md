@@ -1,4 +1,4 @@
-# Sketch2Site
+# Review 1
 
 The project is being built under the guidance of Prof. Nitin Singh Rajput. The entire development of the project is done online, using github to manage its various components and to utilize version control features.
 
