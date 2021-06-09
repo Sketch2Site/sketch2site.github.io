@@ -1,0 +1,11 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+demo_6.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_6.jpeg,29,15,447,147,1,0.4682217538356781,468,147
+demo_5.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_5.jpeg,49,6,348,159,1,0.998649537563324,468,183
+demo_5.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_5.jpeg,255,12,425,156,0,0.9991189241409302,468,183
+demo_4.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_4.jpeg,119,3,409,152,2,0.8116433024406433,468,163
+demo_4.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_4.jpeg,125,9,371,150,1,0.577299952507019,468,163
+demo_4.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_4.jpeg,43,4,221,150,0,0.9998512864112854,468,163
+demo.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo.jpeg,29,39,450,378,0,0.9916664958000183,468,736
+demo_3.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_3.jpeg,73,6,404,137,0,0.9982799887657166,468,149
+demo_2.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_2.jpeg,33,20,161,60,3,0.5645830631256104,468,75
+demo_2.jpeg,/home/yash/Desktop/files/works/projects/sketch2Site/TrainYourOwnYOLO/Data/Source_Images/Test_Images/demo_2.jpeg,59,5,407,61,3,0.8222311735153198,468,75
